@@ -69,5 +69,5 @@
 Другие модели ветвления
 -----------------------
 
-* [Описание модели GitFlow](https://habrahabr.ru/post/106912/).
+* [Описание похожей модели ветвления](https://habrahabr.ru/post/106912/).
 * [Описание разных workflow в блоге End Point](http://blog.endpoint.com/2014/05/git-workflows-that-work.html).
