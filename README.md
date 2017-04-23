@@ -69,7 +69,7 @@
 Пример
 ------
 
-![Пример](https://raw.githubusercontent.com/antidasoftware/git-workflow/master/workflow.jpg)
+![Пример](workflow.png)
 
 
 Другие модели ветвления
